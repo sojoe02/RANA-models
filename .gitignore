@@ -1,0 +1,15 @@
+
+# Directories:
+bin/
+build/
+documentation/
+test/
+
+# FileTypes:
+*.swp
+*.swo
+*.kas
+*.out.*
+*.out
+
+
